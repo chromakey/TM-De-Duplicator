@@ -1,3 +1,10 @@
+"""
+This is a script to find duplicate source entries in a TMX file.  This will only work with Python 2.7 (as opposed to Python 3)
+Bill Blanchard
+Licensed Under GNU/GPL 2012.
+No support is implied or available for this script, you're on your own.
+"""
+
 from sys import argv
 
 #function to gather total number of lines in file
@@ -11,7 +18,7 @@ def file_len(fname):
 script, filename = argv
 
 #repeat file name being checked
-print "File %r to be checked:" % filename
+print "File %r to be checked" % filename
 
 print "Getting number of lines... \n"
 
@@ -25,8 +32,20 @@ lines = txt.readlines()
 
 #open the log file for writing
 log = open('log.txt', 'w+')
+log.write("The following source segments have matches: \n")
+
+#Prompt user for the source segment language code
+print "Please input the language code of the source you are searching against: \n"
+prompt = '>'
+lang_code = raw_input(prompt)
+
+#Prompt user for the text of the source segment they would like to find duplicates for
+print "Please input the text of the source segment you are searching for: \n"
+prompt = '>'
+source_segment = raw_input(prompt)
 
 realcount = 0
+print "The following source segments have multiple entries: \n"
 
 while count !=0:
     subcount = realcount + 1
@@ -41,15 +60,15 @@ while count !=0:
         while subcount < count:
             target_line = lines[subcount]
             if source_line == target_line:
-                announce_text = "Line number %i matches line number %i" % (realcount, subcount)
+                announce_text = (source_line)
                 print announce_text 
                 log.write(announce_text + "\n")
             subcount = subcount + 1
         count -= 1
         realcount += 1
     else:
-        neg_text = "Line %i No Hits" % realcount
-        print neg_text
-        log.write(neg_text + "\n")
+        #neg_text = "Line %i No Hits" % realcount
+        #print neg_text
+        #log.write(neg_text + "\n")
         count -= 1
         realcount += 1
