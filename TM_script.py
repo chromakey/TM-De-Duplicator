@@ -35,16 +35,12 @@ log = open('log.txt', 'w+')
 log.write("The following source segments have matches: \n")
 
 #Prompt user for the source segment language code
-print "Please input the language code of the source you are searching against: \n"
-prompt = '>'
-lang_code = raw_input(prompt)
-
-#Prompt user for the text of the source segment they would like to find duplicates for
-print "Please input the text of the source segment you are searching for: \n"
-prompt = '>'
-source_segment = raw_input(prompt)
+#print "Please input the language code of the source you are searching against: \n"
+#prompt = '>'
+#lang_code = raw_input(prompt)
 
 realcount = 0
+match_count = 0
 print "The following source segments have multiple entries: \n"
 
 while count !=0:
@@ -54,15 +50,15 @@ while count !=0:
     source_line = lines[realcount]
     
     #if the line is of the type that we actually want to compare
-    if source_line[0:3] == "hit":
-        
+    if source_line[0:27] == "<tuv xml:lang=\"en-US\"><seg>" and source_line[28] != "<":     
         #examine all of the lines after the source to see if there is a match
         while subcount < count:
             target_line = lines[subcount]
             if source_line == target_line:
-                announce_text = (source_line)
+                announce_text = (source_line[27:])
                 print announce_text 
                 log.write(announce_text + "\n")
+                match_count += 1
             subcount = subcount + 1
         count -= 1
         realcount += 1
@@ -72,3 +68,10 @@ while count !=0:
         #log.write(neg_text + "\n")
         count -= 1
         realcount += 1
+
+if match_count == 0:
+    print "No matches found!"
+else:        
+    print "Total number of matches: %i" % match_count
+
+exit()
