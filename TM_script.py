@@ -70,14 +70,9 @@ while count !=0:
                     
                     if is_unique == 1:
                         log.write(announce_text + "\n")
-                      
-
+                        unique_segments.append(announce_text)
+            
             subcount = subcount + 1
-        
-        #only add to the log if we have more than one different translation for the same source text
-        #if different_trans_count > 0:
-        #    print announce_text
-        #    log.write(announce_text + "\n")
         
         count -= 1
         realcount += 1
@@ -86,9 +81,7 @@ while count !=0:
         count -= 1
         realcount += 1
 
-#for i in unique_segments:
-#    log.write("%s\n" % unique_segments)
-#Show the user how many hits there were.
+#Show match count
 if match_count == 0:
     print "No matches found!"
 else:        

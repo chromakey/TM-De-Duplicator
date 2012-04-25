@@ -159,12 +159,9 @@ If your burn forms blisters, cover it with a clean, non-stick bandage and change
 If you have a more serious burn, your doctor might give you a stronger medicine for pain or apply special bandages.
 For a severe burn, your doctor might suggest surgery to repair the area that was burned.
 He or she might also prescribe medicines to prevent infection.
-It’s also important to talk to your doctor about any side effects or problems you have during treatment.
 But most people need to take steroids for one to two years.
 (These are not the same steroids that athletes take to build muscle.
 These steroids reduce swelling and ease pain.) Many people feel better after taking their first dose.
-It’s also important to talk to your doctor about any side effects or problems you have during treatment.
-It’s also important to talk to your doctor about any side effects or problems you have during treatment.
 The symptoms of most forms of muscular dystrophy start in childhood. But some forms start in adulthood.
 Circumcision is usually done when a boy is between 1 and 10 days old.
 In the United States, circumcision is common.
@@ -596,7 +593,6 @@ Depending on your symptoms, he or she will tell you if you can treat your sunbur
 Then reapply sunscreen every 2 to 3 hours, or after you sweat or swim.
 When people have AML, their bone marrow makes abnormal blood cells instead of normal blood cells.
 Then another doctor will look at the cells under a microscope to see if abnormal (cancer) cells are present.
-Your doctor or nurse will talk with you and do an exam.
 This means that doctors do not see any abnormal blood cells in the blood or bone marrow.
 But even though doctors do not see any abnormal cells, there are still abnormal cells in the body.
 To kill these cells and prevent the AML from returning, people need more treatment.
@@ -709,7 +705,6 @@ Tell your doctor or nurse if you have any symptoms.
 Ask your doctor or nurse for advice on which foods can make IBS worse.
 You can do this by eating more fruits and vegetables.
 Or you can take fiber pills or powders.
-It’s also important to talk to your doctor about any side effects or problems you have during treatment.
 Skin color changes often happen first around the ankle.
 The key is to keep working with your doctor or nurse until the two of you find an approach that works.
 Your doctor or nurse will do an exam to look at your legs.
@@ -754,7 +749,6 @@ But if you catch a problem early, you can sometimes prevent vision loss.
 People with glaucoma often have too much pressure inside the eye.
 The kidneys’ job is to filter the blood and remove waste and excess salt and water.
 But if you have these symptoms, you should be checked by a doctor or nurse.
-It’s also important to talk to your doctor about any side effects or problems you have during treatment.
 You can get these at a drug store.
 People who are blind read braille by passing their fingers over these dots.
 Simethicone breaks up gas bubbles in your intestines.
@@ -797,7 +791,6 @@ Tell your doctor or nurse if you find any new moles or birthmarks, or if the one
 <bpt type="g" i="0">&lt;g id="i149"&gt;</bpt> <ept i="0">&lt;/g&gt;</ept><bpt type="g" i="2">&lt;g id="i150"&gt;</bpt><ph type="x" x="1">&lt;x id="x131" xid="i201.1.1"/&gt;</ph><ept i="2">&lt;/g&gt;</ept><bpt type="g" i="3">&lt;g id="i151"&gt;</bpt>Wear a wide-brimmed hat, long-sleeved shirt, or long pants<ept i="3">&lt;/g&gt;</ept><bpt type="g" i="5">&lt;g id="i152"&gt;</bpt><ph type="x" x="4">&lt;x id="x132" xid="i201.1.2"/&gt;</ph><ept i="5">&lt;/g&gt;</ept>
 A couple might not be able to get pregnant because of an issue with the man’s body, the woman’s body, or both.
 But even with tests, doctors sometimes cannot figure out why a couple can’t get pregnant.
-But if you are worried, talk with your doctor or nurse.
 For example, some men have a block in a structure called the “vas deferens,” which is the tube that sperm needs to travel through.
 Then the doctor can look at the sample under a microscope to check if sperm are present.
 Or women might have blocked fallopian tubes from past infections or surgery.
@@ -885,7 +878,6 @@ The sooner treatment begins, the better the chances of recovery.
 Women who have not gotten this vaccine during adolescence or adulthood should get it after 20 weeks of pregnancy.
 For example, women might need certain vaccines if they have other medical conditions or plan to travel to another country.
 If you have a reaction or a problem after a vaccine, let him or her know.
-Your doctor or nurse will tell you which vaccines are safe to get.
 Ask, too, what will happen if you do NOT have a hysterectomy.
 If you want to have children, speak to your doctor or nurse about your options.
 He or she can give you a medicine to reduce your chances of getting it.
@@ -924,7 +916,6 @@ Radiation can be given from a machine that is outside the body.
 Or a doctor can put a source of radiation directly into the vagina.
 If you have abnormal vaginal bleeding, your doctor or nurse might order a test called a biopsy to check for uterine cancer.
 Certain vaccines should not be given to women who are pregnant or who will be pregnant soon.
-But that is not usually necessary.
 During a Pap test, a doctor or nurse props open the walls of the vagina using a device that looks like a duck beak (called a speculum).
 Sometimes, instead of killing only bad cells, something goes wrong and the immune system starts to attack healthy cells.
 Let your doctor or nurse know if you have these symptoms.
@@ -1031,7 +1022,6 @@ One comes as a pill.
 Women with IBS usually also have constipation, diarrhea, or both.
 He or she might also order some blood or urine tests.
 If you are worried about ticks, tuck your pants into your socks and wear light colors so you can spot any ticks that get on you.
-It’s also important to talk to your doctor about any side effects or problems you have during treatment.
 But if you have these symptoms, you should let your doctor or nurse know.
 Then, an hour or more later, your doctor or nurse will take some blood.
 Some women also need insulin shots or other diabetes medicines.
@@ -1086,14 +1076,12 @@ This will help the doctor or nurse find out if your problem is caused by COPD or
 But it is especially important for people who are in the hospital or a nursing home.
 It’s also possible that your doctor will order a special kind of x-ray called a “CT scan” of your belly to check if belly pain is due to pancreatitis or other conditions.
 <bpt type="g" i="0">&lt;g id="i7"&gt;</bpt> <ept i="0">&lt;/g&gt;</ept><bpt type="g" i="2">&lt;g id="i8"&gt;</bpt><ph type="x" x="1">&lt;x id="x8" xid="i14.1.1"/&gt;</ph><ept i="2">&lt;/g&gt;</ept><bpt type="g" i="6">&lt;g id="i9"&gt;</bpt><ph type="x" x="3">&lt;x id="x9"/&gt;</ph><ph type="x" x="4">&lt;x id="x10"/&gt;</ph><ph type="x" x="5">&lt;x id="x11"/&gt;</ph><ept i="6">&lt;/g&gt;</ept>All the cells in your body need sugar to work normally.
-There are lots of tests, but you may not need any.
 For this treatment, a doctor or nurse will squirt water into your rectum.
 If you feel sad or anxious because of your hair loss, speak to your doctor or nurse. He or she can help you get the support you need.
 If you have too few red blood cells, your body does not get all the oxygen it needs.
 But other people can develop symptoms within a few weeks of being infected with the herpes virus.
 Untreated hypothyroidism can also increase your blood pressure and raise your cholesterol—both of which increase the risk of heart trouble.
 Even when the virus is active, people with herpes can take medicines to reduce and help prevent symptoms.
-Sometimes, instead of killing only bad cells, something goes wrong and the immune system starts to attack healthy cells.
 These medicines work best when people start them soon after an outbreak starts.
 You and your doctor should work together to decide which medicine is right for you.
 You can decrease the risk of spreading herpes to your partner by taking an antiviral medicine every day.
@@ -1229,7 +1217,6 @@ It does not matter how long you have smoked or how much you smoke.
 It's important to try to prevent them.
 People with asthma usually get normal results after they use an inhaler.
 Sometimes, these cells collect in certain parts of the body.
-But if you have these symptoms, you should let your doctor or nurse know.
 Other types can prevent pregnancy for long periods of time.
 No birth control works 100% perfectly all the time, but some prevent pregnancy better than others.
 Other types of birth control prevent pregnancy only for a limited amount of time.
@@ -1269,14 +1256,11 @@ But if you see blood in your urine, you should be checked by a doctor or nurse.
 Doctors can use different types of tests to look for bladder cancer.
 But if you have other medical conditions or already take other medicines, ask your doctor or nurse before taking new pain medicines.
 To do a cystoscopy, the doctor inserts a small tube into the urethral opening, the opening through which urine leaves the body.
-But your doctor or nurse should be able to tell if you have it by learning about your symptoms and doing an exam.
 But some children need to stay in the hospital for a short time.
-But your doctor or nurse will want to take you off steroid pills as soon as possible.
 If you have this problem, talk with your doctor or nurse about it.
 If he or she finds typical gout crystals in the fluid, then you have gout.
 Your doctor or nurse can give you a blood test to check for mono.
 Having those symptoms could mean the cancer has come back.
-It’s also important to talk to your doctor about any side effects or problems you have during treatment.
 Non-melanoma skin cancer can occur anywhere on the skin, but is often on the head, face, neck, back of the hands, arms, and legs.
 In fact, the damaging effects of the sun build up over time.
 Most forms of non-melanoma skin cancer can be easily treated because they grow slowly.
@@ -1286,28 +1270,20 @@ Actinic keratoses are often found on the face, ears, arms, or scalp.
 They can sometimes turn into skin cancer.
 Doctors often treat actinic keratoses to decrease the chance that this will happen.
 Others do not.
-But that is not usually necessary.
 This test, also known as an “ECG” or “EKG,” measures the electrical activity in your heart.
 Sometimes you will need more visits to learn how to manage your diabetes or if your blood sugar is not well controlled.
 They have fiber, which helps to increase bowel movements.
-But if you have these symptoms, you should let your doctor or nurse know.
 Another doctor will look at the sample under a microscope to see if it has cancer.
-Tell your doctor or nurse if you have any symptoms.
 When a certain type of tick bites you, it can transmit the germ that causes Lyme disease from its body to yours.
-Your doctor or nurse will do an exam and check the skin all over your body.
-And if you do feel down, ask your doctor or nurse for advice.
 Doctors and nurses usually do not order imaging tests before then unless there are signs of something unusual.
 Doctors recommend that, when possible, women feed their babies only breast milk until the baby is 6 months old.
 Ask your doctor or nurse which foods you can feed your baby and when.
 But if a lot of your skin is affected, or the infection goes deep, you might need antibiotic pills.
 <bpt type="g" i="0">&lt;g id="i1"&gt;</bpt> <ept i="0">&lt;/g&gt;</ept><bpt type="g" i="2">&lt;g id="i2"&gt;</bpt><ph type="x" x="1">&lt;x id="x1" xid="i4.1.1"/&gt;</ph><ept i="2">&lt;/g&gt;</ept><bpt type="g" i="5">&lt;g id="i3"&gt;</bpt><ph type="x" x="3">&lt;x id="x2"/&gt;</ph><ph type="x" x="4">&lt;x id="x3"/&gt;</ph><ept i="5">&lt;/g&gt;</ept>What is the urinary tract?
 A pinched nerve in the spine could cause other problems, such as weakness in the leg.
-Depending on your situation, your doctor or nurse might do other tests, too.
 Doctors and nurses usually use these medicines only in people who cannot take steroids or who do not get better with steroids.
-Sometimes, instead of killing only bad cells, something goes wrong and the immune system starts to attack healthy cells.
 Also, any time a doctor or nurse gives you medicine, make sure he or she knows you have lupus.
 But you should finish all the antibiotic pills you get.
-It’s also important to talk to your doctor about any side effects or problems you have during treatment.
 Will it reduce or prevent symptoms?
 But if you have heart disease or other health problems, or if you are on prescription medicines, ask your doctor before you start taking any new medicines.
 If your doctor or nurse suspects you have hepatitis B, he or she will do a routine exam to check for other problems.
@@ -1319,9 +1295,7 @@ One type relaxes the muscles that surround the urethra.
 The other type keeps the prostate from growing more or even helps the prostate shrink.
 (If you have these sudden urges but do not leak urine, you might have an “overactive bladder.”
 Some people find that alcohol, caffeine, or spicy or acidic foods irritate the bladder.
-Each causes different symptoms.
 Often the “urge” is so strong that they can’t make it to the bathroom in time.
-But it can be serious.
 Compared with people with normal cholesterol, people with high cholesterol have a higher risk of heart attacks, strokes, and other health problems.
 They are a type of fat.
 But they often get measured when cholesterol is measured.
@@ -1330,11 +1304,9 @@ But it can help prevent heart attacks, strokes, and death.
 By age 4, most children can control their bladder when they are awake.
 But it can take longer for children to have control over their bladder when they are sleeping.
 But if you are worried or have questions about your child’s bedwetting, talk with your child’s doctor or nurse.
-For instance, your doctor or nurse might say that your blood pressure is “140 over 90.”
 There are medicines doctors can prescribe to reduce bedwetting.
 But medicines are usually given to children older than 7 who have already tried many other ways to stop bedwetting.
 These can include weight loss, medicines, knee braces, or physical therapy.
-Taking your blood pressure medicine can keep you from having a heart attack or stroke, and it can save your life!
 That’s why it is so important to know how to spot a heart attack.
 This is most likely to happen when they are walking, going up stairs, or moving around.
 But if you have chest pain that is new or different than pain you have had before, you should see a doctor right away.
@@ -1366,20 +1338,11 @@ But it’s important to know that when you drink alcohol, some of the alcohol pa
 Most doctors agree that it’s OK for women to drink 2 to 3 cups of a caffeine drink a day.
 But some caffeine can pass through the breast milk to the baby.
 That’s because babies whose parents smoke can have breathing problems, lung infections, or ear infections.
-Or he or she might watch them closely over time.
-Having those symptoms could mean the cancer has come back.
-But if you have these symptoms, tell your doctor or nurse.
-Another doctor will look at the sample under a microscope to see if it has cancer.
 Then another doctor will look at the sample under a microscope.
 So the only way a doctor can know for sure which type of meningitis someone has is to do tests in the hospital.
-Spinal fluid is the fluid that surrounds the brain and spinal cord.
-He or she will do lab tests on the spinal fluid.
-It’s also important to talk to your doctor about any side effects or problems you have during treatment.
 Vaccines are treatments that can prevent certain serious infections.
-He or she will do lab tests on the spinal fluid.
 <bpt type="g" i="0">&lt;g id="i4"&gt;</bpt> <ept i="0">&lt;/g&gt;</ept><bpt type="g" i="2">&lt;g id="i5"&gt;</bpt><ph type="x" x="1">&lt;x id="x4" xid="i9.1.1"/&gt;</ph><ept i="2">&lt;/g&gt;</ept><bpt type="g" i="5">&lt;g id="i6"&gt;</bpt><ph type="x" x="3">&lt;x id="x5"/&gt;</ph><ph type="x" x="4">&lt;x id="x6"/&gt;</ph><ept i="5">&lt;/g&gt;</ept>A cough is an important reflex that helps clear out the body’s airways (the branching tubes that carry air within the lungs).
 These tests show how the lungs are working.
-This causes symptoms.
 Hold the pressure for 10 minutes.
 <bpt type="g" i="0">&lt;g id="i39"&gt;</bpt> <ept i="0">&lt;/g&gt;</ept><bpt type="g" i="2">&lt;g id="i40"&gt;</bpt><ph type="x" x="1">&lt;x id="x32" xid="i20.1.1"/&gt;</ph><ept i="2">&lt;/g&gt;</ept><bpt type="g" i="5">&lt;g id="i41"&gt;</bpt><ph type="x" x="3">&lt;x id="x33"/&gt;</ph><ph type="x" x="4">&lt;x id="x34"/&gt;</ph><ept i="5">&lt;/g&gt;</ept>When 1 part of the intestine slides into another, it causes a blockage.
 It involves piping a special fluid into the belly.
@@ -1387,20 +1350,9 @@ People have hemodialysis at least 3 times a week.
 This fluid collects waste and excess salt and water from the blood.
 But they can happen wherever hair grows on the body.
 Repeat these steps for 10 to 15 minutes every few hours.
-This fluid collects waste and excess salt and water from the blood.
-If so, you will need to avoid that trigger.
 <bpt type="g" i="0">&lt;g id="i23"&gt;</bpt> <ept i="0">&lt;/g&gt;</ept><bpt type="g" i="2">&lt;g id="i24"&gt;</bpt><ph type="x" x="1">&lt;x id="x21" xid="i15.1.1"/&gt;</ph><ept i="2">&lt;/g&gt;</ept><bpt type="g" i="6">&lt;g id="i25"&gt;</bpt><ph type="x" x="3">&lt;x id="x22"/&gt;</ph><ph type="x" x="4">&lt;x id="x23"/&gt;</ph><ph type="x" x="5">&lt;x id="x24"/&gt;</ph><ept i="6">&lt;/g&gt;</ept>).
-But that is not usually necessary.
-But your doctor or nurse should be able to tell if you have it by learning about your symptoms and doing an exam.
-Then another doctor will look at the sample under a microscope.
-Then another doctor will look at the sample under a microscope.
 <bpt type="g" i="0">&lt;g id="i24"&gt;</bpt> <ept i="0">&lt;/g&gt;</ept><bpt type="g" i="2">&lt;g id="i25"&gt;</bpt><ph type="x" x="1">&lt;x id="x17" xid="i15.1.1"/&gt;</ph><ept i="2">&lt;/g&gt;</ept><bpt type="g" i="6">&lt;g id="i26"&gt;</bpt><ph type="x" x="3">&lt;x id="x18"/&gt;</ph><ph type="x" x="4">&lt;x id="x19"/&gt;</ph><ph type="x" x="5">&lt;x id="x20"/&gt;</ph><ept i="6">&lt;/g&gt;</ept>).
 It comes in the form of a shot.
 A CT scan is an imaging test that can create pictures of the inside of the body.
 Doctors call this “dehydration.”
-Your doctor or nurse will ask about your symptoms and do an exam.
-Spinal fluid is the fluid that surrounds the brain and spinal cord.
-Your doctor or nurse will ask about your symptoms and do an exam.
-Your doctor or nurse will ask about your symptoms and do an exam.
-<bpt type="g" i="0">&lt;g id="i23"&gt;</bpt> <ept i="0">&lt;/g&gt;</ept><bpt type="g" i="2">&lt;g id="i24"&gt;</bpt><ph type="x" x="1">&lt;x id="x21" xid="i15.1.1"/&gt;</ph><ept i="2">&lt;/g&gt;</ept><bpt type="g" i="6">&lt;g id="i25"&gt;</bpt><ph type="x" x="3">&lt;x id="x22"/&gt;</ph><ph type="x" x="4">&lt;x id="x23"/&gt;</ph><ph type="x" x="5">&lt;x id="x24"/&gt;</ph><ept i="6">&lt;/g&gt;</ept>).
 That’s because bacterial meningitis is a medical emergency.
