@@ -9,9 +9,6 @@ How to use:
 	Example is python TM_script.py client.tmx
 3.) The file log.txt will have all of the segments that have more than one translation.
 
-This is a script I wrote for identifying translation memory segments that have multiple translations.  
-i.e. if "My name is John" is translated in more than one way.
-
 DISCLAIMERS:
 1.) This only works for TMX files and has only been tested against exports for XTM.
 2.) This only currently works if en-US (English - United States) is the source language
