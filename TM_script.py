@@ -1,7 +1,7 @@
 """
-This is a script to find duplicate source entries in a TMX file.  This will only work with Python 2.7 (as opposed to Python 3)
-Bill Blanchard
-Licensed Under GNU/GPL 2012.
+This is a script to find duplicate source entries with different translations in a TMX file.  
+This will only work with Python 2.7 (as opposed to Python 3)
+
 No support is implied or available for this script, you're on your own.  If it breaks your TM, sorry I can't help you.  User beware!
 """
 
