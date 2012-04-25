@@ -59,7 +59,6 @@ while count !=0:
                 announce_text = (source_line[27:])
                 if lines[realcount + 1] != lines[subcount + 1]:
                     different_trans_count += 1
-                    match_count += 1
                     
                     #check to see if we already have a log entry for it
                     is_unique = 1
@@ -71,7 +70,8 @@ while count !=0:
                     if is_unique == 1:
                         log.write(announce_text + "\n")
                         unique_segments.append(announce_text)
-            
+                        match_count += 1
+                        
             subcount = subcount + 1
         
         count -= 1
