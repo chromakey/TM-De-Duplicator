@@ -36,7 +36,9 @@ log.write("The following source segments have matches: \n")
 
 realcount = 0
 match_count = 0
-print "The following source segments have multiple entries: \n"
+unique_segments = []
+
+print "Please wait, this could take a while depending on the size of the TMX file: \n"
 
 while count !=0:
     subcount = realcount + 1
@@ -57,13 +59,20 @@ while count !=0:
                 announce_text = (source_line[27:])
                 if lines[realcount + 1] != lines[subcount + 1]:
                     different_trans_count += 1
-                    match_count += 1
+                    
+                    #check to see if we already have a log entry for it
+                    is_unique = 1
+                    for seg in unique_segments:
+                        if seg == announce_text:
+                            is_unique = 0
+                            break
+                    
+                    if is_unique == 1:
+                        log.write(announce_text + "\n")
+                        unique_segments.append(announce_text)
+                        match_count += 1
+                        
             subcount = subcount + 1
-        
-        #only add to the log if we have more than one different translation for the same source text
-        if different_trans_count > 0:
-            print announce_text
-            log.write(announce_text + "\n")
         
         count -= 1
         realcount += 1
@@ -72,7 +81,7 @@ while count !=0:
         count -= 1
         realcount += 1
 
-#Show the user how many hits there were.
+#Show match count
 if match_count == 0:
     print "No matches found!"
 else:        
