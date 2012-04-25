@@ -48,7 +48,6 @@ while count !=0:
     if (source_line[0:27] == "<tuv xml:lang=\"en-US\"><seg>" and source_line[28] != "<"):     
         #examine all of the lines after the source to see if there is a match
         different_trans_count = 0
-        segment_match_count = 0
         while subcount < count:
             
             target_line = lines[subcount]
@@ -56,10 +55,9 @@ while count !=0:
             if source_line == target_line:
                 source_line = source_line[:-13]
                 announce_text = (source_line[27:])
-                segment_match_count += 1
-                match_count += 1
                 if lines[realcount + 1] != lines[subcount + 1]:
                     different_trans_count += 1
+                    match_count += 1
             subcount = subcount + 1
         
         #only add to the log if we have more than one different translation for the same source text
