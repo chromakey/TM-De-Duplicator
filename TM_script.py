@@ -2,7 +2,7 @@
 This is a script to find duplicate source entries in a TMX file.  This will only work with Python 2.7 (as opposed to Python 3)
 Bill Blanchard
 Licensed Under GNU/GPL 2012.
-No support is implied or available for this script, you're on your own.
+No support is implied or available for this script, you're on your own.  If it breaks your TM, sorry I can't help you.  User beware!
 """
 
 from sys import argv
@@ -34,11 +34,6 @@ lines = txt.readlines()
 log = open('log.txt', 'w+')
 log.write("The following source segments have matches: \n")
 
-#Prompt user for the source segment language code
-#print "Please input the language code of the source you are searching against: \n"
-#prompt = '>'
-#lang_code = raw_input(prompt)
-
 realcount = 0
 match_count = 0
 print "The following source segments have multiple entries: \n"
@@ -50,25 +45,36 @@ while count !=0:
     source_line = lines[realcount]
     
     #if the line is of the type that we actually want to compare
-    if source_line[0:27] == "<tuv xml:lang=\"en-US\"><seg>" and source_line[28] != "<":     
+    if (source_line[0:27] == "<tuv xml:lang=\"en-US\"><seg>" and source_line[28] != "<"):     
         #examine all of the lines after the source to see if there is a match
+        different_trans_count = 0
+        segment_match_count = 0
         while subcount < count:
+            
             target_line = lines[subcount]
+            #If the source of the source segment matches the source of the target segment, log it
             if source_line == target_line:
+                source_line = source_line[:-13]
                 announce_text = (source_line[27:])
-                print announce_text 
-                log.write(announce_text + "\n")
+                segment_match_count += 1
                 match_count += 1
+                if lines[realcount + 1] != lines[subcount + 1]:
+                    different_trans_count += 1
             subcount = subcount + 1
+        
+        #only add to the log if we have more than one different translation for the same source text
+        if different_trans_count > 0:
+            print announce_text
+            log.write(announce_text + "\n")
+        
         count -= 1
         realcount += 1
+    
     else:
-        #neg_text = "Line %i No Hits" % realcount
-        #print neg_text
-        #log.write(neg_text + "\n")
         count -= 1
         realcount += 1
 
+#Show the user how many hits there were.
 if match_count == 0:
     print "No matches found!"
 else:        
